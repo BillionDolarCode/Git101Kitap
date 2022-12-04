@@ -1,2 +1,2 @@
-# GitTest
+# Git101Kitap
 Test Amaçlı
